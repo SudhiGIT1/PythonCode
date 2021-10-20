@@ -6,4 +6,4 @@ def maxFunction(firstNumber, secondNumber):
         print("secondNumber is greater than firstNumber", (secondNumber))
         print((secondNumber) , "is greater than ", (firstNumber))
 
-maxFunction(2000,2500)
+maxFunction(5000,4000)
