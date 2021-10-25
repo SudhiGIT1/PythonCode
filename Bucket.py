@@ -4,10 +4,7 @@ import pandas
 
 # get boto3 client
 client = boto3.client(
-    's3',
-    aws_access_key_id = 'AKIAX3PIOPZV2JFE76FI',
-    aws_secret_access_key = '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',
-    region_name = 'us-east-2'
+    's3'
 )
 
 # Fetch the list of existing buckets
