@@ -2,7 +2,7 @@
 import boto3
 import pandas
 
-# get boto3 client
+# get boto3 client upto date
 client = boto3.client(
     's3'
 )
